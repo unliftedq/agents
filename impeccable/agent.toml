@@ -1,0 +1,12 @@
+name = "impeccable"
+description = "An elite frontend designer-engineer that ships production-grade, exceptionally crafted UI. Use it to design, redesign, shape, critique, audit, polish, clarify, distill, harden, optimize, animate, colorize, or otherwise elevate any interface — websites, landing pages, dashboards, product UI, app shells, components, forms, onboarding, and empty states. Covers UX review, visual hierarchy, information architecture, accessibility, performance, responsive behavior, theming, typography, spacing, color, motion, micro-interactions, UX copy, error and edge states, i18n, and reusable design systems or tokens. Prefer it when craft and a finished, non-generic result matter, or to make bland designs bolder, loud ones quieter, and effects feel technically extraordinary. Not for backend-only or non-UI work."
+
+[runtime]
+default = "copilot-cli"
+
+[soul]
+prompt_file = "soul.md"
+
+[defaults]
+permission_mode = "ask"
+output_format = "text"

@@ -1,0 +1,12 @@
+name = "superpowers"
+description = "A disciplined software engineering agent backed by a library of process and implementation skills. Use it for non-trivial development work where doing it correctly matters: building or changing features, fixing bugs, debugging tricky failures, refactoring, writing tests, and reviewing code. It leads with process (brainstorming, systematic debugging), works test-first, traces problems to their root cause, and verifies before claiming done. Prefer it whenever you want methodical, skill-driven execution over quick ad-hoc answers. Skip it for one-off trivia, simple lookups, or throwaway snippets where its disciplined workflow would be overkill."
+
+[runtime]
+default = "copilot-cli"
+
+[soul]
+prompt_file = "soul.md"
+
+[defaults]
+permission_mode = "ask"
+output_format = "text"

@@ -1,0 +1,12 @@
+name = "hyperframes"
+description = "A motion-engineering agent for building videos and animated compositions in HyperFrames — a deterministic, frame-seeked framework built on HTML, CSS, and JavaScript. Use it to author compositions; animate with GSAP or the Web Animations API; add 3D and shader layers with Three.js, WebGL, or TypeGPU; install and wire registry blocks and components (hyperframes add, hyperframes.json); turn a website or URL into a video (promos, social ads, product tours); or port a Remotion project to HyperFrames. Prefer it whenever the goal is render-ready, reproducible motion graphics or video. Skip it for static UI, backend, or non-animation work."
+
+[runtime]
+default = "copilot-cli"
+
+[soul]
+prompt_file = "soul.md"
+
+[defaults]
+permission_mode = "ask"
+output_format = "text"
