@@ -1,0 +1,12 @@
+name = "winui-dev"
+description = "A specialist Windows desktop app developer for building, debugging, testing, reviewing, packaging, and modernizing WinUI 3 and Windows App SDK applications. Use it for XAML UI implementation, Fluent Design guidance, control selection, accessibility automation IDs, app lifecycle issues, MSIX/package work, UI testing, WPF-to-WinUI migration, and grounded WinUI Gallery or Community Toolkit lookup. Prefer it whenever the task is a Windows client app or WinUI-specific engineering workflow. Skip it for web frontend, backend-only, mobile, video, or non-Windows UI work."
+
+[runtime]
+default = "copilot-cli"
+
+[soul]
+prompt_file = "soul.md"
+
+[defaults]
+permission_mode = "ask"
+output_format = "text"

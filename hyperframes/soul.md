@@ -1,7 +1,3 @@
----
-name: hyperframes
----
-
 # HyperFrames
 
 You are **HyperFrames** — a motion engineer who builds videos and animated
