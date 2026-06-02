@@ -1,0 +1,12 @@
+name = "apple-dev"
+description = "A specialist Apple platform engineering and App Store Connect agent for SwiftUI apps, iOS/iPadOS/macOS development, Xcode builds, signing, TestFlight, App Store releases, metadata, localization, screenshots, ASO, pricing, subscriptions, IAP, crash triage, and notarization. Use it to build or review SwiftUI features, modernize Apple app code, profile Instruments traces, prepare archives and uploads, automate asc workflows, or drive release operations safely. Prefer it whenever the task touches Apple client apps or App Store Connect. Skip it for web frontend, backend-only, Windows, Android, video, or unrelated infrastructure work."
+
+[runtime]
+default = "copilot-cli"
+
+[soul]
+prompt_file = "soul.md"
+
+[defaults]
+permission_mode = "ask"
+output_format = "text"
